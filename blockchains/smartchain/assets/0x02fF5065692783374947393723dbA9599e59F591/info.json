@@ -1,0 +1,11 @@
+{
+    "name": "YOOSHI",
+    "type": "BEP20",
+    "symbol": "YOOSHI",
+    "decimals": 9,
+    "website": "",
+    "description": "",
+    "explorer": "https://bscscan.com/token/0x02fF5065692783374947393723dbA9599e59F591",
+    "status": "active",
+    "id": "0x02fF5065692783374947393723dbA9599e59F591"
+}
